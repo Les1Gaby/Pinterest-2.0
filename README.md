@@ -7,7 +7,8 @@ Se enfoca en replicar la apariencia visual de pinterest ofreciendo una experienc
 
 * Diseño responsive: Adaptable a diferentes tamaños de pantalla para una experiencia de usuario optima en dispositivos de escritorio
 * Interfaz de usuario intuitiva: Inspirada en pinterest con una navegacion facil y accesible
-
+* *Interacciones Dinámicas:* Efectos visuales para elementos interactivos como botones y enlaces
+* *Iconografía y Estilos Modernos:* Uso de la biblioteca de íconos de Material Design y estilos CSS modernos para una apariencia cool.
 ### Tecnologías Utilizadas
 + *HTML5:* Para la estructura básica del sitio.
 + *CSS3:* Para el diseño y el estilo, incluyendo flexbox para un diseño responsivo y efectos de hover.
