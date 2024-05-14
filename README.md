@@ -7,3 +7,13 @@ Se enfoca en replicar la apariencia visual de pinterest ofreciendo una experienc
 
 * Diseño responsive: Adaptable a diferentes tamaños de pantalla para una experiencia de usuario optima en dispositivos de escritorio
 * Interfaz de usuario intuitiva: Inspirada en pinterest con una navegacion facil y accesible
+### Tecnologías Utilizadas
++ *HTML5:* Para la estructura básica del sitio.
++ *CSS3:* Para el diseño y el estilo, incluyendo flexbox para un diseño responsivo y efectos de hover.
++ *Google Fonts:* Para fuentes personalizadas.
+
+### Vista Previa del Proyecto
+----Pendiente-----
+
+### Contacto
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn]
