@@ -17,4 +17,4 @@ Se enfoca en replicar la apariencia visual de pinterest ofreciendo una experienc
 ### Vista Previa del Proyecto
 ![Demo](imagenes/Screenshot.png)
 ### Contacto
-Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn]
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/lesly-gabriela-quiroz-bueno-b0b346183)
